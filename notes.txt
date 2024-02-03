@@ -1,0 +1,13 @@
+
+// commands used  -- 
+
+1)npm create vite@latest -- --template react client
+2)npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+
+Tailwind installation using Vite : 
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+pages folder for creating web pages script 
+
+Install ES7+React extension 
